@@ -60,7 +60,7 @@ main .wrapper .mainnav .navlinks .links a{
 main .wrapper .image{
     height: 509px;
     /* width: 100vw; */
-    background-image: url(/Assets/img/Event\ detail\ page\ expanded.png); background-size: cover; background-repeat: no-repeat;
+    background-image: url('https://raw.githubusercontent.com/Soga-Joshua/your-pass-UserEventDetailPage/main/Assets/img/Event%20detail%20page%20expanded.png'); background-size: cover; background-repeat: no-repeat;
 }
 main .wrapper .image .arrow{
     height: 60px;
